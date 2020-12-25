@@ -1,9 +1,10 @@
 {
-    "database": {
-        "host": "sezercanpostgres3.postgres.database.azure.com",
-        "dbname": "postgres",
-        "user": "usrsezer@SezercanPostgres3",
-        "password": "Sezercan123*",
-        "ssl": "require"
-    }
+  "database": {
+    "host": "bilgehanpostgres.postgres.database.azure.com",
+    "dbname": "postgres",
+    "user": "MyWebApp@BilgehanPostgres",
+    "password": "mypassword123*",
+    "ssl": "require"
+  }
 }
+
